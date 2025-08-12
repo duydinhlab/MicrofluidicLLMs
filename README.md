@@ -9,7 +9,7 @@ Corresponding author: [ngocduydinh@cuhk.edu.hk](mailto:ngocduydinh@cuhk.edu.hk)
 ---
 <img width="1024" height="1024" alt="image001" src="https://github.com/user-attachments/assets/fa11ee98-e1fe-470f-9fe8-251e7e2caa5b" />
 
-## Data: [Link]([/guides/content/editing-an-existing-page](https://mycuhk-my.sharepoint.com/personal/1155187654_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155187654%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2FAttachments%2FGithub%5FACS%5FOmega%5FUpload%2Ezip&parent=%2Fpersonal%2F1155187654%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2FAttachments&ga=1))
+## Data: [Link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155187654_link_cuhk_edu_hk/EU20J2J8c0NOlw11rWb4KRUBxcmhtFoGf9dwGiQo8EwAfQ)
 
 
 ## Overview
