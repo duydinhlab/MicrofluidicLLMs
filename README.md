@@ -7,7 +7,6 @@ Department of Biomedical Engineering, The Chinese University of Hong Kong
 Corresponding author: [ngocduydinh@cuhk.edu.hk](mailto:ngocduydinh@cuhk.edu.hk)
 
 ---
-<img width="1024" height="1024" alt="image001" src="https://github.com/user-attachments/assets/fa11ee98-e1fe-470f-9fe8-251e7e2caa5b" />
 
 ## Data: [Link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155187654_link_cuhk_edu_hk/EU20J2J8c0NOlw11rWb4KRUBxcmhtFoGf9dwGiQo8EwAfQ)
 
